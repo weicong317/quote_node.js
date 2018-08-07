@@ -14,3 +14,5 @@ Visit http://127.0.0.1:3000/quotes to see all the quotes in database
 
 Step 4:
 Visit http://127.0.0.1:3000/quotes/random to see random quotes in database
+
+To post a new quote, visit https://weicong317.github.io/quote_node.js/
