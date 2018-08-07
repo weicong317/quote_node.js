@@ -7,7 +7,7 @@ Step 1:
 Fork the repo and clone into local
 
 Step 2:
-In console, run "node script.js"
+In console, run "node serverScript.js"
 
 Step 3:
 Visit http://127.0.0.1:3000/quotes to see all the quotes in database
